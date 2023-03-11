@@ -1,1 +1,3 @@
-# Master_IA
+## study projects master's degree in artificial intelligence 
+
+🤓📙
